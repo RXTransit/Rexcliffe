@@ -1,0 +1,40 @@
+{
+    "custom_trains": {
+        "jsz0alhd_lower": {
+            "base_train_type": "base_9_2",
+            "color": "3CEBC2",
+            "texture_id": "mtr:z0a/z0alhd.png",
+            "door_animation_type": "PLUG_SLOW",
+            "has_gangway_connection": false,
+            "rider_offset": -0.8,
+            "model": "mtr:z0a/z0alhd_low.bbmodel",
+            "model_properties": "mtr:z0a/z0alhd.json",
+            "name": "RXTransit Bus(On Rail)",
+            "bve_sound_base_id": "yutong"
+        },
+        "yutong_original": {
+            "base_train_type": "base_9_2",
+            "color": "3CEBC2",
+            "texture_id": "mtr:yutong/yutong.png",
+            "door_animation_type": "PLUG_SLOW",
+            "has_gangway_connection": false,
+            "rider_offset": -0.8,
+            "model": "mtr:yutong/yutong.bbmodel",
+            "model_properties": "mtr:yutong/yutong.json",
+            "name": "Yutong LHT OnRail (The original, you might say)",
+            "bve_sound_base_id": "yutong"
+        },
+        "Enviro": {
+            "base_train_type": "base_9_2",
+            "color": "3CEBC2",
+            "texture_id": "mtr:enviro/enviro.png",
+            "door_animation_type": "PLUG_SLOW",
+            "has_gangway_connection": false,
+            "rider_offset": -0.8,
+            "model": "mtr:enviro/enviro_low.bbmodel",
+            "model_properties": "mtr:enviro/enviro.json",
+            "name": "London Enviro (AirFun)",
+            "bve_sound_id": "yutong"
+		}
+	}	
+}
